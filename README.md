@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=qingsong-he&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qingsong-he&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qingsong-he&hide=html)
+![qingsong-he's github stats](https://github-readme-stats.vercel.app/api?username=qingsong-he&count_private=true&line_height=40)
 
 <!--
 **qingsong-he/qingsong-he** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
